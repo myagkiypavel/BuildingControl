@@ -375,7 +375,7 @@ p {
   display: inline-flex;
   position: relative;
   content: "";
-  background-image: url(../assets/svg/leaf.svg);
+  background-image: url("../assets/svg/leaf.svg");
   top: -15px;
   left: -10px;
   width: 42px;
