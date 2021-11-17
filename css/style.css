@@ -679,7 +679,7 @@ p {
 
 .slogan__wrap {
   padding: 117px 38px;
-  background-image: url(assets/images/city_yellow.jpg);
+  background-image: url(/assets/images/city_yellow.jpg);
 }
 
 .slogan h1 {
